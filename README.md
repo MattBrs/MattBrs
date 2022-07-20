@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming and having fun with computers.
 - 🌱 I’m currently learning c++ and intrested on low level stuff.
 - 💞️ I’m looking to collaborate on new projects :nerd_face:
-- 📫 How to reach me https://www.linkedin.com/in/matteobrusarosco/
+- 📫 How to reach me https://www.linkedin.com/in/matteobrusarosco/, https://stackoverflow.com/users/16735044/matteo-brusarosco
