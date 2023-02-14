@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MattBrs
 - 👀 I’m interested in programming and having fun with computers.
-- 🌱 I’m currently learning c# and unity game dev :video_game:.
+- 🌱 I’m currently learning in-depth c++ for game development :video_game:.
 - 💞️ I’m looking to collaborate on new projects :nerd_face:
 - 📫 How to reach me https://www.linkedin.com/in/matteobrusarosco/, https://stackoverflow.com/users/16735044/matteo-brusarosco
