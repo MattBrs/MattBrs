@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MattBrs
+- 👋 Hi, I’m @MattBrs, a student at University of Trento, Italy.
+- ⌨️ Currently working as a Javascript and Java developer at TCConsulting.
 - 👀 I’m interested in low level stuff and having fun with computers.
 - 🌱 I’m currently learning in-depth c++ for game development :video_game:.
 - 💞️ I’m looking to collaborate on new projects :nerd_face:
