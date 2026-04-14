@@ -1,6 +1,3 @@
-   <img style="margin-left:100px; margin-right: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattBrs&layout=compact"/>
-
-
 - 👋 Hi, I’m @MattBrs, a student at University of Trento, Italy.
 - ⌨️ Currently working as a C++  developer at OpenMove.
 - 👀 I’m interested in low level stuff and having fun with computers.
