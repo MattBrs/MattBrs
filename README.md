@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MattBrs, a student at University of Trento, Italy.
-- ⌨️ Currently working as a C++  developer at OpenMove.
+- ⌨️ Currently working as a C++  developer at OpenMove and doing a master degree in Computer Science.
 - 👀 I’m interested in low level stuff and having fun with computers.
 - 🌱 I’m currently learning in-depth c++ for game development :video_game:.
 - 💞️ I’m looking to collaborate on new projects :nerd_face:
